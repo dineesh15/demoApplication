@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Invest" skipped="0" tests="4" time="22.41" timestamp="2018-10-13 04:53:42"><testcase name="Verify the sucessfull page load of weinvest model portfolio."/><testcase name="Verify the successfull navigation of weather portfolio."/><testcase name="Verify the successfull navigation of Explore Portfolio section and can customize the portfolio."/><testcase name="Verify the SPDR equity allocation percentage in Invest suggestion page."><failure message="expected:&lt;[50]&gt; but was:&lt;[13.79]&gt;" type="org.junit.ComparisonFailure">expected:&lt;[50]&gt; but was:&lt;[13.79]&gt;</failure><system-err>expected:&lt;[50]&gt; but was:&lt;[13.79]&gt;&#13;
+weinvest.pageObjects.InvestModulePageObjects.sPDRAs50Percent(InvestModulePageObjects.java:262)&#13;
+weinvest.stepdefinitions.InvestSteps.thenSPDRValueAs50Percentage(InvestSteps.java:56)&#13;
+</system-err></testcase></testsuite>

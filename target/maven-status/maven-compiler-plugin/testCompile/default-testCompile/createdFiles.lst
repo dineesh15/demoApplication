@@ -1,0 +1,5 @@
+weinvest\stepdefinitions\AddNewStockSteps.class
+weinvest\stepdefinitions\InvestSteps.class
+weinvest\modules\AddNewStock.class
+weinvest\modules\Invest.class
+weinvest\modules\RunAllStories.class

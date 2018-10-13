@@ -1,0 +1,16 @@
+<story path="stories/InvestModule/AddNewStock.story" title="">
+<scenario keyword="Scenario:" title="Verify the successfull addition of New Stock into US Equity Portfolio">
+<step outcome="successful">Given User launch the application</step>
+<step outcome="successful">Then Verify whether user can see the login button in the screen</step>
+<step outcome="successful">Then User clicks on Explore Investment Ideas button under All Weather Strategy section.</step>
+<step outcome="successful">When Clicking Explore Investment Ideas button user should see the Customize Portfolio button in the next screen.</step>
+<step outcome="successful">Then User clicks on the Customize Portfolio button.</step>
+<step outcome="successful">Then Verify user can see the Customise button.</step>
+<step outcome="successful">Then Click the Customise button.</step>
+<step outcome="successful">Then Verify whether the Customise button text changed as Reset</step>
+<step outcome="successful">Then Clicks on Add Stock Button for US Equities</step>
+<step outcome="successful">Then Scroll down to the pop up windows and click Add stock button of BT Group plc stock</step>
+<step outcome="successful">Then Click Done button</step>
+<step outcome="successful">Then Verify whether new stock BT Group plc added to portfolio</step>
+</scenario>
+</story>

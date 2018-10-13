@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Sat Oct 13 16:54:27 IST 2018
+stories/InvestModule/AddNewStock.story=17000
+threads=1
+total=17000
+threadAverage=17000

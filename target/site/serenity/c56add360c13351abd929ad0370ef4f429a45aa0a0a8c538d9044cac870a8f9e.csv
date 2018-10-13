@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Invest","Verify the sucessfull page load of weinvest model portfolio.","SUCCESS","2018-10-13T16:53:42.625+05:30[Asia/Calcutta]","0.0","7.52"
+"Invest","Verify the successfull navigation of weather portfolio.","SUCCESS","2018-10-13T16:53:50.287+05:30[Asia/Calcutta]","0.0","2.17"
+"Invest","Verify the successfull navigation of Explore Portfolio section and can customize the portfolio.","SUCCESS","2018-10-13T16:53:52.459+05:30[Asia/Calcutta]","0.0","10.5"

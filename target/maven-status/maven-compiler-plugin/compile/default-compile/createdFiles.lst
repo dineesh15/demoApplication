@@ -1,0 +1,4 @@
+weinvest\pageObjects\InvestModulePageObjects.class
+weinvest\utils\UIHelper.class
+weinvest\pageObjects\AddNewStockPageObjects.class
+weinvest\utils\CommonMethods.class

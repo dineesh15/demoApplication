@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: weinvest.modules.RunAllStories
+-------------------------------------------------------------------------------
+Tests run: 35, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 48.008 s <<< FAILURE! - in weinvest.modules.RunAllStories
+Then Verify whether the user can see the SPDR value as 50 percentage(weinvest.stepdefinitions.InvestSteps)  Time elapsed: 1.114 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: expected:<[50]> but was:<[13.79]>
+	at weinvest.stepdefinitions.InvestSteps.thenSPDRValueAs50Percentage(InvestSteps.java:56)
+
