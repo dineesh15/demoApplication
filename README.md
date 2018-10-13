@@ -1,1 +1,1 @@
-# demoApplication
+# Weinvest demoApplication
